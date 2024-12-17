@@ -1,4 +1,4 @@
-# Data Scientist
+# Data
 
 ### Education
 Engineering
